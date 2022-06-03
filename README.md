@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aly024" alt="aly024" /></a> </p>
 
-- 🔭 I’m currently working on **IoT based Home Automation**
+- 🔭 I’m currently working on **IoT based Home Automation project**
 
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **ROS and Metaheuristic Algorithms in Matlab**
 
 - 💬 Ask me about **Microcontroller, Arduino and Python**
 
