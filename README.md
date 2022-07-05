@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualikum Hi 👋I'm Aly Azfar.</h1>
+<h1 align="center">Assalamualikum Hi 👋I am Aly Azfar.</h1>
 <h3 align="center">A IoT enthusiast from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aly024&label=Profile%20views&color=0e75b6&style=flat" alt="aly024" /> </p>
